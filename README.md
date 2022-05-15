@@ -1,6 +1,7 @@
 # Project presentation:
 
 
-Wally wallet wireframe: https://app.uizard.io/p/a7deef48
+### Wally wallet
 
-prototyping: https://app.uizard.io/prototypes/0ovpzwMYnEiJgedvXPgw/editor
+- wireframe: https://app.uizard.io/p/a7deef48
+- prototyping: https://app.uizard.io/prototypes/0ovpzwMYnEiJgedvXPgw/editor
